@@ -32,9 +32,9 @@ Email: [bahman.amirsardary@mail.polimi.it](mailto\:bahman.amirsardary@mail.polim
 ### Snow Detection Using NDSI
 
 - **Formula:**
-  $$
-  \text{NDSI} = \frac{\text{Green Band (B3)} - \text{SWIR Band (B11)}}{\text{Green Band (B3)} + \text{SWIR Band (B11)}}
-  $$
+  
+  {NDSI} = {Green Band (B3) - SWIR Band (B11)} / {Green Band (B3) + SWIR Band (B11)}
+  
 - **Threshold:** 0.4 (values above indicate snow coverage)
 - **Cloud Differentiation:** Snow absorbs short-wave infrared but reflects visible light, while clouds reflect both.
 
