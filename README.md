@@ -79,9 +79,6 @@ If you use this work in your research, please cite:
 
 > Bahman Amirsardary, "Lombardy Snow Covered Areas during Summer and Winter", Politecnico di Milano, 2024.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
