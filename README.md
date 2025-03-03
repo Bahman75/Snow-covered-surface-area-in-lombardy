@@ -73,17 +73,6 @@ Email: [bahman.amirsardary@mail.polimi.it](mailto\:bahman.amirsardary@mail.polim
 - **Processing Software:** QGIS, SAGA GIS
 - **Programming Languages:** Python (optional for automation and advanced analysis)
 
-## Citation
-
-If you use this work in your research, please cite:
-
-> Bahman Amirsardary, "Lombardy Snow Covered Areas during Summer and Winter", Politecnico di Milano, 2024.
-
-
-## Contact
-
-For any questions or collaboration opportunities, feel free to reach out to [bahman.amirsardary@mail.polimi.it](mailto\:bahman.amirsardary@mail.polimi.it).
-
 
 
 ## Contact
